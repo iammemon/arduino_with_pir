@@ -1,0 +1,17 @@
+{
+  "name": "project_arduino",
+  "version": "1.0.0",
+  "description": "Arduino with PIR",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Fawad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "johnny-five": "^0.10.6",
+    "nodemailer": "^4.0.1",
+    "socket.io": "^1.7.3"
+  }
+}
